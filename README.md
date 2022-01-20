@@ -1,2 +1,2 @@
 # online-bank
-A desktop banking application  .
+A desktop banking application.
